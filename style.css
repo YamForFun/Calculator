@@ -1,0 +1,43 @@
+body{
+    background-color: cornsilk;
+}
+.container {
+    text-align: center;
+    margin-top: 165px;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 17px;
+    height: 28px;
+    margin-bottom: 3px;
+    padding: 5px;
+}
+
+button {
+    width: 60px;
+    height: 38px;
+    padding: 5px;
+    color: #161b22;
+    background-color: rgb(103, 103, 201);
+    border: 2px solid black;
+    border-radius: 15px;
+    font-size: 21px;
+}
+
+.equal {
+    color: white;
+    background-color: #57f1e3;
+}
+.cal{
+    display: inline-block;
+    border: 3px solid black ;
+    border-radius: 29px;
+    background-color: #0fbdff;
+    padding: 11px;
+}
